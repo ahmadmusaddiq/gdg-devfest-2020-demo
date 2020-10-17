@@ -1,4 +1,4 @@
-# GDG DevFest 2020
+# GDG DevFest 2020 - Build and Deploy Machine Learning Model
 
 Assalamualaikum and Hello!
 
