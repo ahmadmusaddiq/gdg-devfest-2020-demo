@@ -48,7 +48,7 @@ Once you're done with that, it is time to create your environment. This basicall
 
 Should you encounter issues during this step, feel free to contact any of the volunteers or the organisers.
 
-#### Google Colab
+#### Option 3: Google Colab
 
 Sometime's just preparing your environment can be a hugeeeee pain, and despite your best efforts, things just fail. What do we do then?
 
