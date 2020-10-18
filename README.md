@@ -14,6 +14,8 @@ There are three toolkits that will be used during this session i.e. Anaconda, Do
 
 To install the have two options. You only have to either pick one.
 
+If both of these fail, then go to Option 3 by using Google Colab instead.
+
 #### Option 1: Installing Anaconda
 
 If you are new to programming and is unfamiliar on how to set up your development environment, then the easiest way is to start by installing Anaconda from [here](https://www.anaconda.com/products/individual). This route is the easiest for absolute beginners.
@@ -45,6 +47,14 @@ Once you're done with that, it is time to create your environment. This basicall
 `conda env create -f environment.yml`
 
 Should you encounter issues during this step, feel free to contact any of the volunteers or the organisers.
+
+#### Google Colab
+
+Sometime's just preparing your environment can be a hugeeeee pain, and despite your best efforts, things just fail. What do we do then?
+
+Look for cloud option!
+
+Go on to Google Colab and get yourself a trouble free notebook instance.
 
 ### 3) Second Toolkit: Docker Desktop
 
